@@ -1,5 +1,6 @@
-Hello 👋, my name is Aleksey. I'm Unity Game Developer 🎮
-About Me 🤠
+# Hello 👋, my name is Aleksey. I'm Unity Game Developer 🎮
+
+## About Me 🤠
 
 I am a Unity game developer with experience in creating games of various genres — from single-player puzzles to multiplayer shooters.
 I have graduated from BSUIR and continue to improve my skills in programming, game design, and architecture.
