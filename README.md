@@ -5,40 +5,42 @@ I am a Unity game developer with experience in creating games of various genres 
 I have graduated from BSUIR and continue to improve my skills in programming, game design, and architecture.
 I am passionate about developing clean, scalable, and maintainable game systems. Always ready to work on challenging and interesting projects!
 
-<br/>
-My Skills
-Main
+<br/>  
 
-Unity (URP, 2D/3D) – full-cycle development
 
-C# / .NET – solid programming background
+## My Skill Set  
+<div align="center">  
+<table><tr><td valign="top">
 
-Zenject – clean architecture & dependency injection
+### Main  
+<div align="center">  
+<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="60" /></a>  
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="60" /></a>  
+<a href="https://github.com/Mathijs-Bakker/Extenject" target="_blank"><img style="margin: 10px" src="assets/icons/zenject.jpg" alt="Zenject" height="60" /></a>  
+<a href="https://dotween.demigiant.com/" target="_blank"><img style="margin: 10px" src="assets/icons/Dotween.png" alt=".NET" height="60" /></a>  
+<a href="https://odininspector.com/" target="_blank"><img style="margin: 10px" src="assets/icons/Odin.png" alt=".NET" height="60" /></a>  
+<a href="https://www.photonengine.com/pun" target="_blank"><img style="margin: 10px" src="assets/icons/Photon Engine.png" alt=".NET" height="60" /></a>  
+</div>
 
-UniTask – asynchronous programming
+</td><td valign="top">
 
-Odin Inspector – editor tools & workflow optimization
+### Other  
+<div align="center">  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" /></a>  
+<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="60" /></a>  
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="60" /></a>  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="60" /></a>  
+</div>
 
-DoTween – animations and UI effects
+</td></tr></table>  
+</div>
 
-Photon PUN2 / Netcode – multiplayer solutions
-
-PostgreSQL – working with data
-
-Other
-
-Git / GitHub
-
-Blender (basic 3D)
-
-Photoshop / Illustrator (UI & assets)
-
-<br/>
+<br/>  
 Projects
 
 Some of my projects are available on my GitHub. Among them are:
 
-Multiplayer Arena Shooter (WebGL, Yandex Games)
+[Multiplayer Arena Shooter](https://github.com/LeshaTola/MultiplayerShooter) (WebGL, [Yandex Games](https://yandex.ru/games/app/409413?lang=ru))
 
 Puzzle & Hidden Object Games for mobile
 
