@@ -9,38 +9,47 @@ I am passionate about developing clean, scalable, and maintainable game systems.
 
 
 ## My Skill Set  
-<div align="center">  
-<table><tr><td valign="top">
 
-### Main  
-<div align="center">  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="60" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="60" /></a>  
+<div align="center">
+
+### Main
+<a href="https://unity.com/" target="_blank">
+  <img src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" width="60" height="60" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" width="60" height="60" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Mathijs-Bakker/Extenject" target="_blank">
-  <img style="margin: 10px" src="https://github.com/LeshaTola/leshatola/raw/main/assets/icons/zenject.jpg" alt="Zenject" height="60"/>
-</a>  
+  <img src="https://github.com/LeshaTola/leshatola/raw/main/assets/Icons/zenject.jpg" alt="Zenject" width="160" height="160"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://dotween.demigiant.com/" target="_blank">
-  <img style="margin: 10px" src="https://github.com/LeshaTola/leshatola/raw/main/assets/icons/Dotween.png" alt="DoTween" height="60"/>
-</a>  
+  <img src="https://github.com/LeshaTola/leshatola/raw/main/assets/Icons/Dotween.png" alt="DoTween" width="60" height="60"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://odininspector.com/" target="_blank">
-  <img style="margin: 10px" src="https://github.com/LeshaTola/leshatola/raw/main/assets/icons/Odin.png" alt="Odin" height="60"/>
-</a>  
+  <img src="https://github.com/LeshaTola/leshatola/raw/main/assets/Icons/Odin.png" alt="Odin" width="160" height="160"/>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.photonengine.com/pun" target="_blank">
-  <img style="margin: 10px" src="https://github.com/LeshaTola/leshatola/raw/main/assets/icons/Photon%20Engine.png" alt="Photon Pun 2" height="60"/>
-</a>  
-</div>
+  <img src="https://github.com/LeshaTola/leshatola/raw/main/assets/Icons/Photon%20Engine.png" alt="Photon Pun 2" width="160" height="160"/>
+</a>
 
-</td><td valign="top">
+<br/><br/>
 
-### Other  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="60" /></a>  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="60" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="60" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="60" /></a>  
-</div>
+---
 
-</td></tr></table>  
+### Other
+<a href="https://github.com/" target="_blank">
+  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" width="60" height="60" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.blender.org/" target="_blank">
+  <img src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" width="60" height="60" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank">
+  <img src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" width="60" height="60" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
+  <img src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" width="60" height="60" />
+</a>
+
 </div>
 
 <br/>  
