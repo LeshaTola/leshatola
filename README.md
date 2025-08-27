@@ -17,9 +17,9 @@ I am passionate about developing clean, scalable, and maintainable game systems.
 <a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="60" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="60" /></a>  
 <a href="https://github.com/Mathijs-Bakker/Extenject" target="_blank"><img style="margin: 10px" src="assets/icons/zenject.jpg" alt="Zenject" height="60" /></a>  
-<a href="https://dotween.demigiant.com/" target="_blank"><img style="margin: 10px" src="assets/icons/Dotween.png" alt=".NET" height="60" /></a>  
-<a href="https://odininspector.com/" target="_blank"><img style="margin: 10px" src="assets/icons/Odin.png" alt=".NET" height="60" /></a>  
-<a href="https://www.photonengine.com/pun" target="_blank"><img style="margin: 10px" src="assets/icons/Photon Engine.png" alt=".NET" height="60" /></a>  
+<a href="https://dotween.demigiant.com/" target="_blank"><img style="margin: 10px" src="assets/icons/Dotween.png" alt="DoTween" height="60" /></a>  
+<a href="https://odininspector.com/" target="_blank"><img style="margin: 10px" src="assets/icons/Odin.png" alt="Odin" height="60" /></a>  
+<a href="https://www.photonengine.com/pun" target="_blank"><img style="margin: 10px" src="assets/icons/Photon Engine.png" alt="Photon Pun 2" height="60" /></a>  
 </div>
 
 </td><td valign="top">
