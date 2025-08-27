@@ -20,7 +20,7 @@ I am passionate about developing clean, scalable, and maintainable game systems.
   <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" width="60" height="60" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Mathijs-Bakker/Extenject" target="_blank">
-  <img src="https://github.com/LeshaTola/leshatola/raw/main/assets/Icons/zenject.jpg" alt="Zenject" width="160" height="160"/>
+  <img src="https://github.com/LeshaTola/leshatola/raw/main/assets/Icons/Zenject.png" alt="Zenject" width="160" height="160"/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://dotween.demigiant.com/" target="_blank">
   <img src="https://github.com/LeshaTola/leshatola/raw/main/assets/Icons/Dotween.png" alt="DoTween" width="60" height="60"/>
